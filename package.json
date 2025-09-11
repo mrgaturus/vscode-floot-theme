@@ -1,0 +1,21 @@
+{
+  "name": "floot",
+  "displayName": "Floot",
+  "description": "Theme that makes you floot",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Floot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Floot-color-theme.json"
+      }
+    ]
+  }
+}
