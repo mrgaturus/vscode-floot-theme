@@ -199,7 +199,7 @@
 				"entity.name.type.struct"
 			],
 			"settings": {
-				"foreground": "#e56c8f"
+				"foreground": "#ff875b"
 			}
 		},
 		{
@@ -208,7 +208,7 @@
 				"entity.name.type.enum"
 			],
 			"settings": {
-				"foreground": "#e56c8f"
+				"foreground": "#ff875b"
 			}
 		},
 		{
@@ -326,7 +326,8 @@
 			"scope": [
 				"keyword",
 				"variable.language",
-				"variable.language.this"
+				"variable.language.this",
+				"constant.language.nullptr"
 			],
 			"settings": {
 				"foreground": "#70b8e5"
