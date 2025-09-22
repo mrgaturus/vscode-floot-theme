@@ -177,7 +177,8 @@
 			"name": "classes",
 			"scope": [
 				"support.class.builtin",
-				"entity.name.type.class"
+				"entity.name.type.class",
+				"entity.name.scope-resolution"
 			],
 			"settings": {
 				"foreground": "#ff875b"
