@@ -237,7 +237,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#e56c8f"
+				"foreground": "#c4f189"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 				"meta.parameter"
 			],
 			"settings": {
-				"foreground": "#e4ad99"
+				"foreground": "#cccccc"
 			}
 		},
 		{
@@ -305,10 +305,11 @@
 			"scope": [
 				"string",
 				"string.other.link",
+				"punctuation.definition.string",
 				"markup.inline.raw.string.markdown"
 			],
 			"settings": {
-				"foreground": "#c2eb81"
+				"foreground": "#e2b68c"
 			}
 		},
 		{
@@ -373,7 +374,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#A0A0A0"
+				"foreground": "#7e7e7e"
 			}
 		},
 		{
@@ -400,6 +401,8 @@
 			"name": "booleans",
 			"scope": [
 				"constant.language.boolean",
+				"constant.language.true",
+				"constant.language.false",
 				"constant.language.json"
 			],
 			"settings": {
@@ -542,7 +545,6 @@
 				"punctuation.terminator",
 				"punctuation.definition.tag",
 				"punctuation.separator",
-				"punctuation.definition.string",
 				"punctuation.section.block"
 			],
 			"settings": {
