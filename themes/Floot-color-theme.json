@@ -247,6 +247,7 @@
 				"variable",
 				"meta.variable",
 				"variable.other.object.property",
+				"variable.other.object.access",
 				"variable.other.readwrite.alias"
 			],
 			"settings": {
@@ -415,7 +416,9 @@
 			"scope": [
 				"keyword.operator",
 				"storage.modifier.pointer",
-				"punctuation.separator.pointer-access"
+				"storage.modifier.reference",
+				"punctuation.separator.pointer-access",
+				"punctuation.definition.function.pointer"
 			],
 			"settings": {
 				"foreground": "#ee4c6f"
