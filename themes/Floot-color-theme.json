@@ -475,6 +475,7 @@
 			"name": "constants",
 			"scope": [
 				"variable.other.constant",
+				"constant.language.symbol",
 				"variable.readonly"
 			],
 			"settings": {
