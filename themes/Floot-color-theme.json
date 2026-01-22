@@ -176,8 +176,10 @@
 		{
 			"name": "classes",
 			"scope": [
+				"support.class",
 				"support.class.builtin",
 				"entity.name.type.class",
+				"entity.other.inherited-class",
 				"entity.name.scope-resolution"
 			],
 			"settings": {
@@ -248,7 +250,8 @@
 				"meta.variable",
 				"variable.other.object.property",
 				"variable.other.object.access",
-				"variable.other.readwrite.alias"
+				"variable.other.readwrite.alias",
+				"constant.language.symbol.hashkey"
 			],
 			"settings": {
 				"foreground": "#f5f2f2"
