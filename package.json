@@ -1,10 +1,10 @@
 {
-  "name": "mrgaturus.floot",
+  "name": "mrgaturus-floot",
   "displayName": "Floot",
   "description": "Theme that makes you floot",
   "author": "mrgaturus",
   "publisher": "mrgaturus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.103.0"
   },

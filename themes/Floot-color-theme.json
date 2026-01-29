@@ -236,6 +236,7 @@
 		{
 			"name": "functions",
 			"scope": [
+				"meta.function-call.generic",
 				"entity.name.function",
 				"support.function"
 			],
@@ -299,6 +300,7 @@
 			"name": "properties",
 			"scope": [
 				"variable.other.property",
+				"meta.attribute.python",
 				"meta.property"
 			],
 			"settings": {
@@ -479,6 +481,7 @@
 			"scope": [
 				"variable.other.constant",
 				"constant.language.symbol",
+				"constant.language.python",
 				"variable.readonly"
 			],
 			"settings": {
