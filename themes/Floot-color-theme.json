@@ -335,6 +335,7 @@
 				"keyword",
 				"variable.language",
 				"variable.language.this",
+				"variable.language.self",
 				"constant.language.nil",
 				"constant.language.null",
 				"constant.language.nullptr",
