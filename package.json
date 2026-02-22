@@ -2,6 +2,10 @@
   "name": "floot-theme",
   "displayName": "Floot",
   "description": "Theme that makes you floot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrgaturus/vscode-floot-theme"
+  },
   "author": "mrgaturus",
   "publisher": "mrgaturus",
   "version": "0.0.3",
