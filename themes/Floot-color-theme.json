@@ -427,7 +427,9 @@
 				"storage.modifier.pointer",
 				"storage.modifier.reference",
 				"punctuation.separator.pointer-access",
-				"punctuation.definition.function.pointer"
+				"punctuation.definition.function.pointer",
+				"punctuation.definition.block.sequence.item.yaml",
+				"keyword.control.flow.block-scalar.literal.yaml"
 			],
 			"settings": {
 				"foreground": "#ee4c6f"
@@ -474,7 +476,9 @@
 		{
 			"name": "types",
 			"scope": [
-				"support.type"
+				"support.type",
+				"punctuation.support.type.property-name.begin.json",
+				"punctuation.support.type.property-name.end.json"
 			],
 			"settings": {
 				"foreground": "#ff875b"
