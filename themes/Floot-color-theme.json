@@ -249,6 +249,7 @@
 			"scope": [
 				"variable",
 				"meta.variable",
+				"variable.other.object",
 				"variable.other.object.property",
 				"variable.other.object.access",
 				"variable.other.readwrite.alias",
@@ -259,22 +260,13 @@
 			}
 		},
 		{
-			"name": "variablesOther",
-			"scope": [
-				"variable.other.object"
-			],
-			"settings": {
-				"foreground": "#ff875b"
-			}
-		},
-		{
 			"name": "globalVariables",
 			"scope": [
-				"variable.other.global",
-				"variable.language.this"
+				"variable.other.global"
 			],
 			"settings": {
-				"foreground": "#c2eb81"
+				"foreground": "#f5f2f2",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -487,9 +479,10 @@
 		{
 			"name": "constants",
 			"scope": [
-				"variable.other.constant",
+				"constant.language",
 				"constant.language.symbol",
 				"constant.language.python",
+				"variable.other.constant",
 				"variable.readonly"
 			],
 			"settings": {
