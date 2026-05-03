@@ -484,6 +484,7 @@
 				"constant.language.symbol.hashkey",
 				"constant.language.python",
 				"punctuation.definition.constant",
+				"punctuation.definition.symbol",
 				"punctuation.section.symbol",
 				"variable.other.constant",
 				"variable.readonly"
